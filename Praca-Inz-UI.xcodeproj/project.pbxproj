@@ -11,6 +11,28 @@
 		FE090B952C1DFF9000C5A101 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090B942C1DFF9000C5A101 /* ContentView.swift */; };
 		FE090B972C1DFF9100C5A101 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE090B962C1DFF9100C5A101 /* Assets.xcassets */; };
 		FE090B9A2C1DFF9100C5A101 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE090B992C1DFF9100C5A101 /* Preview Assets.xcassets */; };
+		FE090BB22C1E066F00C5A101 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BB12C1E066F00C5A101 /* TabBarView.swift */; };
+		FE090BB42C1E073000C5A101 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BB32C1E073000C5A101 /* ProfileView.swift */; };
+		FE090BB62C1E075F00C5A101 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BB52C1E075F00C5A101 /* SearchView.swift */; };
+		FE090BB82C1E077000C5A101 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BB72C1E077000C5A101 /* HomeView.swift */; };
+		FE090BBB2C1F150D00C5A101 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BBA2C1F150D00C5A101 /* LoginView.swift */; };
+		FE090BBF2C1F4ECB00C5A101 /* FilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BBE2C1F4ECB00C5A101 /* FilterView.swift */; };
+		FE090BC22C1F5B4800C5A101 /* ImageLoaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BC12C1F5B4800C5A101 /* ImageLoaderView.swift */; };
+		FE090BC42C1F5B6900C5A101 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BC32C1F5B6900C5A101 /* Constants.swift */; };
+		FE090BC62C1F7C2000C5A101 /* OnboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BC52C1F7C2000C5A101 /* OnboardView.swift */; };
+		FE090BC92C1F900500C5A101 /* Consultation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BC82C1F900500C5A101 /* Consultation.swift */; };
+		FE090BCC2C208DCB00C5A101 /* ConsultationDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BCB2C208DCB00C5A101 /* ConsultationDetailView.swift */; };
+		FE090BCE2C2091D100C5A101 /* ConsultationHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BCD2C2091D100C5A101 /* ConsultationHeaderView.swift */; };
+		FE090BD12C20929000C5A101 /* SwiftfulUI in Frameworks */ = {isa = PBXBuildFile; productRef = FE090BD02C20929000C5A101 /* SwiftfulUI */; };
+		FE090BD42C20BD7E00C5A101 /* PollsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BD32C20BD7E00C5A101 /* PollsView.swift */; };
+		FE090BD62C20CE8A00C5A101 /* PollsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BD52C20CE8A00C5A101 /* PollsDetailView.swift */; };
+		FE090BD82C20D69700C5A101 /* DiscussionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BD72C20D69700C5A101 /* DiscussionView.swift */; };
+		FE090BDA2C20DB6500C5A101 /* Poll.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BD92C20DB6500C5A101 /* Poll.swift */; };
+		FE090BDC2C20EFE600C5A101 /* PollCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BDB2C20EFE600C5A101 /* PollCardView.swift */; };
+		FE090BDF2C220CE000C5A101 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BDE2C220CE000C5A101 /* Message.swift */; };
+		FE090BE12C220D3300C5A101 /* MessageBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BE02C220D3300C5A101 /* MessageBubble.swift */; };
+		FE090BE32C222FAC00C5A101 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BE22C222FAC00C5A101 /* SettingsView.swift */; };
+		FE090BE72C224A2400C5A101 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE090BE62C224A2400C5A101 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +41,27 @@
 		FE090B942C1DFF9000C5A101 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FE090B962C1DFF9100C5A101 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE090B992C1DFF9100C5A101 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FE090BB12C1E066F00C5A101 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		FE090BB32C1E073000C5A101 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		FE090BB52C1E075F00C5A101 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		FE090BB72C1E077000C5A101 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		FE090BBA2C1F150D00C5A101 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		FE090BBE2C1F4ECB00C5A101 /* FilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterView.swift; sourceTree = "<group>"; };
+		FE090BC12C1F5B4800C5A101 /* ImageLoaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoaderView.swift; sourceTree = "<group>"; };
+		FE090BC32C1F5B6900C5A101 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		FE090BC52C1F7C2000C5A101 /* OnboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardView.swift; sourceTree = "<group>"; };
+		FE090BC82C1F900500C5A101 /* Consultation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Consultation.swift; sourceTree = "<group>"; };
+		FE090BCB2C208DCB00C5A101 /* ConsultationDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsultationDetailView.swift; sourceTree = "<group>"; };
+		FE090BCD2C2091D100C5A101 /* ConsultationHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsultationHeaderView.swift; sourceTree = "<group>"; };
+		FE090BD32C20BD7E00C5A101 /* PollsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PollsView.swift; sourceTree = "<group>"; };
+		FE090BD52C20CE8A00C5A101 /* PollsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PollsDetailView.swift; sourceTree = "<group>"; };
+		FE090BD72C20D69700C5A101 /* DiscussionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscussionView.swift; sourceTree = "<group>"; };
+		FE090BD92C20DB6500C5A101 /* Poll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Poll.swift; sourceTree = "<group>"; };
+		FE090BDB2C20EFE600C5A101 /* PollCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PollCardView.swift; sourceTree = "<group>"; };
+		FE090BDE2C220CE000C5A101 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		FE090BE02C220D3300C5A101 /* MessageBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageBubble.swift; sourceTree = "<group>"; };
+		FE090BE22C222FAC00C5A101 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		FE090BE62C224A2400C5A101 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE090BD12C20929000C5A101 /* SwiftfulUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,6 +97,12 @@
 			children = (
 				FE090B922C1DFF9000C5A101 /* Praca_Inz_UIApp.swift */,
 				FE090B942C1DFF9000C5A101 /* ContentView.swift */,
+				FE090BC52C1F7C2000C5A101 /* OnboardView.swift */,
+				FE090BC72C1F8FEC00C5A101 /* Models */,
+				FE090BC02C1F5B3500C5A101 /* Shared */,
+				FE090BBD2C1F4EB700C5A101 /* Components */,
+				FE090BB92C1F138800C5A101 /* Core */,
+				FE090BE42C2248D400C5A101 /* Profile */,
 				FE090B962C1DFF9100C5A101 /* Assets.xcassets */,
 				FE090B982C1DFF9100C5A101 /* Preview Content */,
 			);
@@ -65,6 +115,101 @@
 				FE090B992C1DFF9100C5A101 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FE090BB92C1F138800C5A101 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BBA2C1F150D00C5A101 /* LoginView.swift */,
+				FE090BB12C1E066F00C5A101 /* TabBarView.swift */,
+				FE090BBC2C1F4E3700C5A101 /* Screens */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		FE090BBC2C1F4E3700C5A101 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BCA2C208D8200C5A101 /* Consultations */,
+				FE090BE52C2248F300C5A101 /* Search */,
+				FE090BD22C20BD6B00C5A101 /* Polls */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		FE090BBD2C1F4EB700C5A101 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BBE2C1F4ECB00C5A101 /* FilterView.swift */,
+				FE090BCD2C2091D100C5A101 /* ConsultationHeaderView.swift */,
+				FE090BDB2C20EFE600C5A101 /* PollCardView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		FE090BC02C1F5B3500C5A101 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BC12C1F5B4800C5A101 /* ImageLoaderView.swift */,
+				FE090BC32C1F5B6900C5A101 /* Constants.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		FE090BC72C1F8FEC00C5A101 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BC82C1F900500C5A101 /* Consultation.swift */,
+				FE090BD92C20DB6500C5A101 /* Poll.swift */,
+				FE090BDE2C220CE000C5A101 /* Message.swift */,
+				FE090BE62C224A2400C5A101 /* User.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FE090BCA2C208D8200C5A101 /* Consultations */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BB72C1E077000C5A101 /* HomeView.swift */,
+				FE090BCB2C208DCB00C5A101 /* ConsultationDetailView.swift */,
+				FE090BDD2C2208CA00C5A101 /* Discussion */,
+			);
+			path = Consultations;
+			sourceTree = "<group>";
+		};
+		FE090BD22C20BD6B00C5A101 /* Polls */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BD32C20BD7E00C5A101 /* PollsView.swift */,
+				FE090BD52C20CE8A00C5A101 /* PollsDetailView.swift */,
+			);
+			path = Polls;
+			sourceTree = "<group>";
+		};
+		FE090BDD2C2208CA00C5A101 /* Discussion */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BE02C220D3300C5A101 /* MessageBubble.swift */,
+				FE090BD72C20D69700C5A101 /* DiscussionView.swift */,
+			);
+			path = Discussion;
+			sourceTree = "<group>";
+		};
+		FE090BE42C2248D400C5A101 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BB32C1E073000C5A101 /* ProfileView.swift */,
+				FE090BE22C222FAC00C5A101 /* SettingsView.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		FE090BE52C2248F300C5A101 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				FE090BB52C1E075F00C5A101 /* SearchView.swift */,
+			);
+			path = Search;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +228,9 @@
 			dependencies = (
 			);
 			name = "Praca-Inz-UI";
+			packageProductDependencies = (
+				FE090BD02C20929000C5A101 /* SwiftfulUI */,
+			);
 			productName = "Praca-Inz-UI";
 			productReference = FE090B8F2C1DFF9000C5A101 /* Praca-Inz-UI.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +259,9 @@
 				Base,
 			);
 			mainGroup = FE090B862C1DFF9000C5A101;
+			packageReferences = (
+				FE090BCF2C20929000C5A101 /* XCRemoteSwiftPackageReference "SwiftfulUI" */,
+			);
 			productRefGroup = FE090B902C1DFF9000C5A101 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -137,8 +288,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE090BCC2C208DCB00C5A101 /* ConsultationDetailView.swift in Sources */,
+				FE090BC22C1F5B4800C5A101 /* ImageLoaderView.swift in Sources */,
+				FE090BD82C20D69700C5A101 /* DiscussionView.swift in Sources */,
 				FE090B952C1DFF9000C5A101 /* ContentView.swift in Sources */,
+				FE090BDA2C20DB6500C5A101 /* Poll.swift in Sources */,
+				FE090BB82C1E077000C5A101 /* HomeView.swift in Sources */,
 				FE090B932C1DFF9000C5A101 /* Praca_Inz_UIApp.swift in Sources */,
+				FE090BB42C1E073000C5A101 /* ProfileView.swift in Sources */,
+				FE090BD42C20BD7E00C5A101 /* PollsView.swift in Sources */,
+				FE090BDC2C20EFE600C5A101 /* PollCardView.swift in Sources */,
+				FE090BE12C220D3300C5A101 /* MessageBubble.swift in Sources */,
+				FE090BCE2C2091D100C5A101 /* ConsultationHeaderView.swift in Sources */,
+				FE090BD62C20CE8A00C5A101 /* PollsDetailView.swift in Sources */,
+				FE090BC42C1F5B6900C5A101 /* Constants.swift in Sources */,
+				FE090BBF2C1F4ECB00C5A101 /* FilterView.swift in Sources */,
+				FE090BB22C1E066F00C5A101 /* TabBarView.swift in Sources */,
+				FE090BC92C1F900500C5A101 /* Consultation.swift in Sources */,
+				FE090BB62C1E075F00C5A101 /* SearchView.swift in Sources */,
+				FE090BDF2C220CE000C5A101 /* Message.swift in Sources */,
+				FE090BC62C1F7C2000C5A101 /* OnboardView.swift in Sources */,
+				FE090BBB2C1F150D00C5A101 /* LoginView.swift in Sources */,
+				FE090BE32C222FAC00C5A101 /* SettingsView.swift in Sources */,
+				FE090BE72C224A2400C5A101 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,6 +516,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FE090BCF2C20929000C5A101 /* XCRemoteSwiftPackageReference "SwiftfulUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftfulThinking/SwiftfulUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		FE090BD02C20929000C5A101 /* SwiftfulUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FE090BCF2C20929000C5A101 /* XCRemoteSwiftPackageReference "SwiftfulUI" */;
+			productName = SwiftfulUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = FE090B872C1DFF9000C5A101 /* Project object */;
 }
