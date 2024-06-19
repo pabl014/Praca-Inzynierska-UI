@@ -17,7 +17,7 @@ struct PollCardView: View {
             
             ImageLoaderView(urlString: item.image)
                 .scaledToFit()
-                .clipShape(RoundedRectangle(cornerRadius: 10))
+                .clipShape(RoundedRectangle(cornerRadius: 20))
                 .frame(width: 300, height: 300)
                 .offset(y: 30)
             

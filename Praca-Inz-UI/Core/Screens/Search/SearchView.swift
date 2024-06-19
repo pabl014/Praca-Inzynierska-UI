@@ -36,6 +36,11 @@ struct SearchView: View {
             }
             .navigationTitle("Search")
             .searchable(text: $searchText, prompt: "Search")
+            .overlay {
+                if filteredUsers.isEmpty {
+                    ContentUnavailableView.search(text: searchText)
+                }
+            }
         }
     }
 }
